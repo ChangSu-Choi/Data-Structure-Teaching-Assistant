@@ -18,6 +18,6 @@ week 4
 --------
 > Linked list
   
-week 5. 
+week 5
 --------
 > Stack and Queue
