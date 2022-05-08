@@ -21,3 +21,15 @@ week 4
 week 5
 --------
 > Stack and Queue
+
+week 6
+--------
+> Tree
+
+week 7
+--------
+> Graph
+
+week 9
+--------
+> Recursive function
